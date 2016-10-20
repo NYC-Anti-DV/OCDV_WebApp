@@ -2443,6 +2443,17 @@
 					text-shadow: 1px 0 0 #ffffff, -1px 0 0 #ffffff, 0 1px 0 #ffffff, 0 -1px 0 #ffffff;
 				}
 
+
+
+/* Escape */
+	.escape {
+		float: right;
+    	margin: 0 0 1em 1.5em;
+    	top: 0.25em;
+	}
+
+
+
 /* Image */
 
 	.image {
