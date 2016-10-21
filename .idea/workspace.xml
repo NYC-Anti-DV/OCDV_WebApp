@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="476f5f31-f7dc-4ac4-9deb-92bc54334584" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/main.scss" afterPath="$PROJECT_DIR$/assets/sass/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manhattan-fjc.html" afterPath="$PROJECT_DIR$/manhattan-fjc.html" />
     </list>
     <ignored path="OCDV_WebApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,8 +53,8 @@
       <file leaf-file-name="manhattan-fjc.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/manhattan-fjc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.8767333" vertical-offset="0" max-vertical-offset="3975">
-              <caret line="211" column="8" selection-start-line="211" selection-start-column="8" selection-end-line="211" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.41602466" vertical-offset="0" max-vertical-offset="3975">
+              <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -856,8 +855,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/manhattan-fjc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.8767333" vertical-offset="0" max-vertical-offset="3975">
-          <caret line="211" column="8" selection-start-line="211" selection-start-column="8" selection-end-line="211" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.41602466" vertical-offset="0" max-vertical-offset="3975">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
           <folding>
             <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
