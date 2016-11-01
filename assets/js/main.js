@@ -67,7 +67,7 @@
 
 			// Navigation Panel.
 				$(
-					'<div id="navPanel">' +
+					'<div id="navPanel"  style="font-weight: 900">' +
 						'<nav>' +
 							$('#nav').navList() +
 						'</nav>' +
